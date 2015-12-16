@@ -8,9 +8,9 @@ The Homework Hub app is able to track students homework submission throughout th
 #USER STORIES
 
 **Student Portal**
-1. A student may log in
-2. A student may submit a link to their homework assignments
-3. A student can view their own homework submissions
+*1. A student may log in
+*2. A student may submit a link to their homework assignments
+*3. A student can view their own homework submissions
 4. A student should be able to view their grades for all their homework
 5. If a homework assignment has not been graded, they should see their grade displayed as "Grade Pending"
 6. If a student's "Unsatisfactory" percentage rises above 20%, the front page should display a notification that they need to contact their instructional team for help with a link to send an email to their instructor. In addition, they should recieve an email with the same notification
@@ -37,9 +37,9 @@ The Homework Hub app is able to track students homework submission throughout th
 
 
 **Producer Portal**
-1) A course producer can run several courses
-2) The producer should see a list of all the cohorts they are producing
-3) A producer should be able to view the homework completion records for each cohort (each student's name, each student's number of complete incomplete, and satisfactory assignments and percentages for each)
+1. A course producer can run several courses
+2. The producer should see a list of all the cohorts they are producing
+3. A producer should be able to view the homework completion records for each cohort (each student's name, each student's number of complete incomplete, and satisfactory assignments and percentages for each)
 
 
 # E.R.D. 

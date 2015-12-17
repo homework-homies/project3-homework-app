@@ -72,5 +72,9 @@ The Homework Hub app is able to track students homework submission throughout th
 
 ![alt-text](https://github.com/homework-homies/project3-homework-app/blob/master/Screen%20Shot%202015-12-16%20at%203.49.23%20PM.png)
 
+# WIRE FRAMES
+[Wire Frame in PDF](/homework_hub_wireframes.pdf)
+
+
 # LINK TO HOMEWORK APP
 [Homework-App](http://example.com)

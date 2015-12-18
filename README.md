@@ -1,9 +1,15 @@
-#The Homework Hub
+#The Homework Hub :dancers: :dancers:
 
 App created by: The Homework Homies - Alex, Jess, Taylor, Thais and Natasha 
 
 #DESCRIPTION OF APP
 The Homework Hub app is able to track students homework submission throughout their GA course. There will be 3 portals (Instructor, Student and Producer). This app is a perfect way for students and their instructors to analyse students progress in the class. 
+
+#TECHNOLOGIES USED
+1. SO MANY...
+2. and many more
+3. and still more...
+3. and HTML
 
 #USER STORIES
 
@@ -69,12 +75,13 @@ The Homework Hub app is able to track students homework submission throughout th
 
 
 # E.R.D. 
-
 ![alt-text](https://github.com/homework-homies/project3-homework-app/blob/master/Screen%20Shot%202015-12-16%20at%203.49.23%20PM.png)
 
-# WIRE FRAMES
+# WIREFRAMES
 [Wire Frame in PDF](/homework_hub_wireframes.pdf)
 
+# LINK TO TRELLO BOARD
+[Homework Homies Trello Board](https://trello.com/homeworkhomiesproject)
 
 # LINK TO HOMEWORK APP
 [Homework-App](http://example.com)

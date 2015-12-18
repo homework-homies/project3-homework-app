@@ -1,4 +1,4 @@
-#The Homework Hub :dancers: :dancers:
+#The Homework Hub :dancers::dancers:
 
 App created by: The Homework Homies - Alex, Jess, Taylor, Thais and Natasha 
 

@@ -1,15 +1,18 @@
 #The Homework Hub :dancers::dancers::running:
 
 App created by: The Homework Homies - Alex, Jess, Taylor, Thais and Natasha 
+Link: https://stark-gorge-9731.herokuapp.com/
 
 #DESCRIPTION OF APP
 The Homework Hub app is able to track students homework submission throughout their GA course. There will be 3 portals (Instructor, Student and Producer). This app is a perfect way for students and their instructors to analyse students progress in the class. 
 
 #TECHNOLOGIES USED
-1. SO MANY...
-2. and many more
-3. and still more...
-3. and HTML
+1. Ruby on Rails 
+2. Javascript / jQuery
+3. HTML / CSS
+4. GitHub API
+5. Action Mailer
+6. Bootstrap 
 
 #USER STORIES
 
@@ -23,21 +26,19 @@ The Homework Hub app is able to track students homework submission throughout th
 
 4. A student should be able to view their grades for all their homework
 
-5. If a homework assignment has not been graded, they should see their grade displayed as "Grade Pending"
+5. If a homework assignment has not been graded, they should see their grade status displayed as "Pending"
 
-6. If a student's "Unsatisfactory" percentage rises above 20%, the front page should display a notification that they need to contact their instructional team for help with a link to send an email to their instructor. In addition, they should recieve an email with the same notification
+6. If a student's "HW Submissio" percentage drops below 20%, the front page should display a notification that they need to contact their instructional team for help with a link to send an email to their instructor. In addition, they should recieve an email with the same notification.
 
-7. A student can view a list of homework gists that their instructors have created
+7. A student can view a list of homework gists that their instructors have created.
 
-8. A student can see the content of the gists on the site with a link to the gist on github
+8. A student can see the content of the gists on the site with a link to the gist on github.
 
-9. If a Takeaways gist has been created, the student should recieve an email notification alerting them
+9. If a Takeaways gist has been created, the student should recieve an email notification alerting them.
 
-10. A student should be able to see all of the courses/cohorts the student is in
+10. A user should be able to go to their userpage when they click on their username.
 
-11. A user should be able to go to their userpage when they click on their username
-
-12. A student should get an email if an instructor creates a new cohort/course
+11. A student should get an email with a registration link if an instructor creates a new cohort/course.
 
 
 ##**Instructor Portal**##
@@ -83,5 +84,8 @@ The Homework Hub app is able to track students homework submission throughout th
 # LINK TO TRELLO BOARD
 [Homework Homies Trello Board](https://trello.com/homeworkhomiesproject)
 
-# LINK TO HOMEWORK APP
-[Homework-App](http://example.com)
+# GITHUB LINKS
+[GitHub Organization](https://github.com/homework-homies)
+[Project ReadMe & ERDs](https://github.com/homework-homies/project3-homework-app)
+[Homework Hub App Repository](https://github.com/homework-homies/hw-hub)
+

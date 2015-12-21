@@ -86,6 +86,8 @@ The Homework Hub app is able to track students homework submission throughout th
 
 # GITHUB LINKS
 [GitHub Organization](https://github.com/homework-homies)
+
 [Project ReadMe & ERDs](https://github.com/homework-homies/project3-homework-app)
+
 [Homework Hub App Repository](https://github.com/homework-homies/hw-hub)
 
